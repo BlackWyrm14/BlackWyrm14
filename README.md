@@ -8,9 +8,9 @@ I love learning new things, tackling fun projects, and making code that works (s
 ---
 ## 🛠️ Tech I Like
 
-- **Python**
-- **Swift**
-- **C++**
+- **Python** </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a>
+- **Swift**  </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="20" height="20"/> </a> 
+- **C++**    </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20"/> </a>
 - Exploring other languages and tools as I grow
 
 ---
