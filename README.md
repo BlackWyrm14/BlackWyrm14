@@ -1,9 +1,9 @@
-# Hi there, I'm BlackWyrm14! 🐉  
+# Hi there, I'm BlackWyrm18! 🐉  
 Welcome to my GitHub profile!  
 I'm a curious student on a coding adventure, with Python as my sidekick.  
 I love learning new things, tackling fun projects, and making code that works (sometimes even on the first try!).
 
-[![BlackWyrm14's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackWyrm14&show_icons=true&include_all_commits=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![BlackWyrm14's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackWyrm18&show_icons=true&include_all_commits=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ## 🛠️ Tech I Like
